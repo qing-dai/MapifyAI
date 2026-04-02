@@ -56,8 +56,8 @@ This modular design enables:
 
 ## Demo
 
-- Website: https://mapify-ai-rose.vercel.app/landing  
-- Interactive frontend demo available  
+- Website: https://mapify-ai-eight.vercel.app/landing
+- Interactive frontend demo available at: https://mapify-ai-eight.vercel.app
 
 ---
 
